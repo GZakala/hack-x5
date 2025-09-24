@@ -1,0 +1,6 @@
+.venv
+data
+models
+*/lightning_logs
+*/ner-model
+__pycache__
